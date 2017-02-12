@@ -1,9 +1,9 @@
 "=========== Meta ============
-"StrID : 51
+"StrID : 4
 "Title : Hexo生成的博客部署到VPS
 "Slug  : hexo-deploy-to-vps
 "Cats  : Linux
-"Tags  : VPS
+"Tags  : Hexo, Linux, VPS
 "Date  : 20170211T03:47:25
 "=============================
 "EditType   : post

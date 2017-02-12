@@ -1,9 +1,9 @@
 "=========== Meta ============
-"StrID : 49
+"StrID : 12
 "Title : 使用Rsync建立文件同步服务
 "Slug  : create-file-sync-using-rsync
 "Cats  : Linux
-"Tags  : 
+"Tags  : Linux, RSync
 "Date  : 20170208T03:06:06
 "=============================
 "EditType   : post
