@@ -33,7 +33,7 @@
 
 交互过程总结如下图：
 
-![ETag](http://7xnua6.com1.z0.glb.clouddn.com/2015/etag.png)
+![ETag](http://7xnua6.com1.z0.glb.clouddn.com/2017/02/etag.png)
 
 ## 代码实现
 
