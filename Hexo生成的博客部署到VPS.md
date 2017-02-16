@@ -2,13 +2,17 @@
 "StrID : 4
 "Title : Hexo生成的博客部署到VPS
 "Slug  : hexo-deploy-to-vps
-"Cats  : Linux
+"Cats  : 折腾记
 "Tags  : Hexo, Linux, VPS
 "Date  : 20170211T03:47:25
 "=============================
 "EditType   : post
 "EditFormat : Markdown
 "========== Content ==========
+
+Hexo是用Node.js开发的一款高性能的博客框架，支持 GitHub Flavored Markdown 的所有功能，甚至可以整合 Octopress 的大多数插件，只需一条指令即可部署到 GitHub Pages, Heroku 或其他网站。大部分使用Hexo的博客在Github上搭建的，但是如果你购了VPS或有自己的服务器，可能更希望把自己的博客部署在自己的服务器上。
+
+<!--more-->
 
 ## 安装 Git
 
