@@ -1,6 +1,6 @@
 "=========== Meta ============
 "StrID : 31
-"Title : Swift中的比作运算符
+"Title : Swift中的比较运算符
 "Slug  : swift-comparable
 "Cats  : 移动端
 "Tags  : Comparable, Swift
