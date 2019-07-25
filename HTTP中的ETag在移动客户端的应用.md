@@ -1,8 +1,8 @@
 "=========== Meta ============
-"StrID : 14
+"StrID : 30
 "Title : HTTP中的ETag在移动客户端的应用
 "Slug  : http-etag
-"Cats  : 移动端
+"Cats  : 技术
 "Tags  : HTTP, Net
 "Date  : 20170207T15:55:21
 "=============================
@@ -33,7 +33,7 @@
 
 交互过程总结如下图：
 
-![ETag](http://7xnua6.com1.z0.glb.clouddn.com/2017/02/etag.png)
+![ETag](http://res.joywek.com/2018/http-cache-control.png)
 
 ## 代码实现
 

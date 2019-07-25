@@ -1,8 +1,8 @@
 "=========== Meta ============
-"StrID : 21
+"StrID : 32
 "Title : 使用NSProxy实现对象的动态代理
 "Slug  : ios-dynamic-proxy
-"Cats  : 移动端
+"Cats  : 技术
 "Tags  : 
 "Date  : 20151118T03:47:25
 "=============================
